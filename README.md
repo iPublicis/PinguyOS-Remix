@@ -1,4 +1,4 @@
-# PinguyOS-Remix
+# PinguyOS Remix
 PinguyOS recreated from Ubuntu Gnome with shell scripts
 
 ## Why?
