@@ -2,7 +2,7 @@
 PinguyOS recreated from Ubuntu Gnome with shell scripts
 
 ## Why?
-I have [this idea](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS?pid=35147#pid35147) due to the stalled development of [PinguyOS](http://pinguyos.com "Linux distro by Antoni Norman") and the developer [wish to stop](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS "Thinking of killing PinguyOS thread, last heard in Sept 2016") its development for 16.04 onward. I like a lot PinguyOS so I started thinking on how to do it without the absolute need to build an ISO from scratch and, at the same time, keeping it simple to configure.
+I have [this idea](http://forum.pinguyos.com/Thread-The-future-of-PinguyOS) due to the stalled development of [PinguyOS](http://pinguyos.com "Linux distro by Antoni Norman") and the developer [wish to stop](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS "Thinking of killing PinguyOS thread, last heard in Sept 2016") its development for 16.04 onward. I like a lot PinguyOS so I started thinking on how to do it without the absolute need to build an ISO from scratch and, at the same time, keeping it simple to configure.
 
 ## The idea
 The result would be to build something like the solution I posted at [the PinguyOS forum](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS?pid=35147#pid35147) based on Erik Dubois' [Ultimate Linux receipts](https://github.com/erikdubois/Ultimate-Linux-Mint-18.1-Cinnamon) and with some info Antoni supplied [here](http://forum.pinguyos.com/Thread-PinguyOS-METAPACKAGE?pid=34132#pid34132) and [here](http://forum.pinguyos.com/Thread-PinguyOS-14-04-4-1-Pinguy-Builder-Update?pid=34833#pid34833).
