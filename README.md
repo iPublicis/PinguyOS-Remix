@@ -2,7 +2,7 @@
 PinguyOS recreated from Ubuntu Gnome with shell scripts
 
 ## Why?
-This idea come to me due to the stalled development of [PinguyOS](http://pinguyos.com "Linux distro by Antoni Norman") and the developer [wish to stop](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS "Thinking of killing PinguyOS thread") its development.
+This idea come to me due to the stalled development of [PinguyOS](http://pinguyos.com "Linux distro by Antoni Norman") and the developer [wish to stop](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS "Thinking of killing PinguyOS thread") its development for 16.04 onward.
 
 ## The idea
 The result would be to build something like the solution I posted at [the PinguyOS forum](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS?pid=35147#pid35147) based on Erik Dubois' [Ultimate Linux receipts](https://github.com/erikdubois/Ultimate-Linux-Mint-18.1-Cinnamon) and with some info Antoni supplied [here](http://forum.pinguyos.com/Thread-PinguyOS-METAPACKAGE?pid=34132#pid34132) and [here](http://forum.pinguyos.com/Thread-PinguyOS-14-04-4-1-Pinguy-Builder-Update?pid=34833#pid34833).
