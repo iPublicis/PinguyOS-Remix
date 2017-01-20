@@ -12,7 +12,7 @@ The interface could use as a base the [MacBuntu](http://www.noobslab.com/2016/04
 The base for working a new version of PinguyOS should be [Ubuntu Gnome Remix](https://ubuntugnome.org/) instead of the one Antoni used, Xubuntu. I think with this the task of building PinguyOS would be simpler hence it is based on Gnome Shell and Ubuntu.
 
 ## The ISO
-After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) to make the official ISO would be easier and this would allow us all to try to help this move forward.
+After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) ([version 4.3-8](https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/)) to make the official ISO would be easier and this would allow us all to try to help this move forward.
 
 ## Help :)
 If someone with better knowledge wishes to do this too lets talk.
