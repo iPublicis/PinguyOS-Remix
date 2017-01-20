@@ -1,5 +1,5 @@
 # PinguyOS Remix
-PinguyOS recreated from Ubuntu Gnome with shell scripts
+PinguyOS with Ubuntu Gnome and shell scripts
 
 ## Why?
 I have [this idea](http://forum.pinguyos.com/Thread-The-future-of-PinguyOS) due to the stalled development of [PinguyOS](http://pinguyos.com "Linux distro by Antoni Norman") and the developer [wish to stop](http://forum.pinguyos.com/Thread-Thinking-of-killing-off-Pinguy-OS "Thinking of killing PinguyOS thread, last heard in Sept 2016") its development for 16.04 onward. I like a lot PinguyOS so I started thinking on how to do it without the absolute need to build an ISO from scratch and, at the same time, keeping it simple to configure.
