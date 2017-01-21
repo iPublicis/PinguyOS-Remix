@@ -12,7 +12,7 @@ The interface could use as a base the [MacBuntu](http://www.noobslab.com/2016/04
 The base for working a new version of PinguyOS should be [Ubuntu Gnome Remix](https://ubuntugnome.org/) or [Devuan GNOME](https://devuan.org) instead of the linux distro Antoni used as its base, Xubuntu. I think with this the task of building PinguyOS would be simpler hence both are based on Gnome Shell.
 
 ## The ISO
-After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) <sup>[src](https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/ "Must be version 4.3.x")</sup> to make the official ISO would be easier and this would allow us all to try to help this move forward.
+After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) <sup>[src](https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/ "Must be version 4.3.x")</sup> or [Distro Builder](https://github.com/maximstewart/Distro-Builder) to make the official ISO would be easier and this would allow us all to try to help this move forward.
 
 ## Help :)
 If someone with better knowledge wishes to do this too lets talk.
