@@ -28,18 +28,23 @@ rootNisoChk() {
     fi
 }
 
-addrepos() {
+mktmp() {
   echo "Make TEMP dir"
   mkdir ~/TEMP > /dev/null
   cd ~/TEMP > /dev/null
+}
+
+rmtmp () {
+  echo "Cleaning... "
+  cd .. > /dev/null
+  rm -rf ~/TEMP > /dev/null
+}
+
+addrepos() {
   echo "Getting APT extra files..."
   wget http://www.pinguyos.com/files/apt.zip  > /dev/null
   unzip -o apt.zip -d /etc/apt/  > /dev/null
   apt-get update -y  > /dev/null
-  echo "Cleaning... "
-  cd .. > /dev/null
-  rm -rf TEMP > /dev/null
-  echo "Done."
 }
 
 rootNisoChk
