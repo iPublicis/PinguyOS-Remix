@@ -9,7 +9,7 @@ The result would be to build something like the solution I posted at [the Pinguy
 
 The interface could use as a base the [MacBuntu](http://www.noobslab.com/2016/04/macbuntu-1604-transformation-pack-for.html) design and the [Plank](https://wiki.archlinux.org/index.php/Plank) dock (also [this](https://github.com/deepsidhu1313/plank_multi-dock_on_multi-display_solution) and [this](http://www.webupd8.org/2016/03/lightweight-dock-plank-0110-released.html)) instead of the heavier Docky.
 
-The base for working a new version of PinguyOS should be [Ubuntu Gnome Remix](https://ubuntugnome.org/) instead of the one Antoni used, Xubuntu. I think with this the task of building PinguyOS would be simpler hence it is based on Gnome Shell and Ubuntu.
+The base for working a new version of PinguyOS should be [Ubuntu Gnome Remix](https://ubuntugnome.org/) or [Devuan GNOME](https://devuan.org) instead of the linux distro Antoni used as its base, Xubuntu. I think with this the task of building PinguyOS would be simpler hence both are based on Gnome Shell.
 
 ## The ISO
 After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) <sup>[src](https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/ "Must be version 4.3.x")</sup> to make the official ISO would be easier and this would allow us all to try to help this move forward.
