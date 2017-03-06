@@ -15,4 +15,4 @@ The base for working a new version of PinguyOS should be [Ubuntu Gnome Remix](ht
 After having this in place I think that using [PinguyBuilder](http://pinguyos.com/2015/09/pinguy-builder-an-app-to-backupremix-buntu/) <sup>[src](https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/ "Must be version 4.3.x")</sup> or [Distro Builder](https://github.com/maximstewart/Distro-Builder) to make the official ISO would be easier and this would allow us all to try to help this move forward.
 
 ## Help... or just fork it :)
-If someone with better knowledge wishes to do this too lets talk... or just *fork* and push your changes ;)
+If someone with better knowledge wishes to do this too lets talk... or just fork it and pull your changes ;)
